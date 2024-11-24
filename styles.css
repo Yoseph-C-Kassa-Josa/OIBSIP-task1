@@ -54,7 +54,7 @@ nav ul li {
 }
 
 nav a {
-    color: white; 
+    color: rgb(187, 163, 163); 
     text-decoration: none;
     padding: 10px 15px;
     transition: background-color 0.3s ease; 
@@ -72,7 +72,7 @@ button {
     display: block;
     margin: auto; 
     background-color: #f39c12;
-    color: white; 
+    color: rgb(238, 237, 237); 
     border-radius: 5px;
     padding: 15px 30px;
     border:none;
