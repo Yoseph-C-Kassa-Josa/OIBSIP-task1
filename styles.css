@@ -29,12 +29,12 @@ body {
 
 header {
     background-color: #333; 
-    color: white; 
+    color: wheat; 
     position: sticky; 
     top: 0; 
     z-index: 1000; 
     width: 100%; 
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 10px rgba(35, 3, 3, 0.2);
 }
 .conta{
     margin-top: 100px;
