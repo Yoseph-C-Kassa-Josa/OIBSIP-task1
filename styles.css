@@ -348,7 +348,7 @@ button {
     min-width: 250px;
     margin: 10px;
     padding: 20px;
-    background-color: white; 
+    background-color: rgb(184, 163, 163); 
     border-radius: 10px; 
     box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
     display: flex;
