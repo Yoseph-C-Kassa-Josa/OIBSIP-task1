@@ -312,7 +312,7 @@ button {
     margin-top:.5em; 
     padding-left:.5em; 
     border-left:.25em solid var(--primary-color); 
-    background-color:white; 
+    background-color:rgb(173, 160, 160); 
     border-radius:.5em; 
     padding:.5em; 
  }
